@@ -1,5 +1,5 @@
 # Hugo template for Netlify CMS with Netlify Identity
-
+[![HitCount](http://hits.dwyl.com/shNerotic/SomeSmallTools.svg)](http://hits.dwyl.com/shNerotic/SomeSmallTools)
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
 
 ## Getting started
